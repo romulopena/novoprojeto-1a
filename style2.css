@@ -7,3 +7,16 @@
     color: white;
     font-weight: 400;
 }
+
+#escudo-remo{
+    width: 300px;
+    border: 3px black solid;
+}
+.principal{
+    background-color: black;
+    border: 10px;
+    border-color: aliceblue;
+    border-style: double;
+    margin: 30px;
+    color: yellow;
+}
